@@ -4,7 +4,7 @@
 
 [Amr Hamdi](https://github.com/Ag1O1)
 [Alaa Mohamed](https://github.com/s-alaamohammed25-byte)
-[Ammar Mostafa](https://github.com/s-ammarmostafa)
+[Ammar Mostafa](https://github.com/ammar-khater)
 
 ## Project Description
 
